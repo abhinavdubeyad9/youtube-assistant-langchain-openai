@@ -142,7 +142,3 @@ Contributions, feedback, and bug reports are welcome!
 
 **Made with ❤️ using LangChain, OpenAI, and Streamlit**
 
-```
-
----
-```
