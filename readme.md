@@ -13,9 +13,15 @@ A sleek Streamlit web app powered by **LangChain**, **OpenAI**, and **FAISS** th
 
 ---
 
-## 📸 Screenshot
+## 📸 UI
 
 ![YouTube Assistant UI](assets/Screenshot1.png)
+
+---
+
+## 📸 In Action
+
+![YouTube Assistant UI](assets/youtube.gif)
 
 ---
 
@@ -141,4 +147,3 @@ Contributions, feedback, and bug reports are welcome!
 ---
 
 **Made with ❤️ using LangChain, OpenAI, and Streamlit**
-
